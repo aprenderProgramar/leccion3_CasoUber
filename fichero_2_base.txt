@@ -1,0 +1,4 @@
+fichero 2
+
+
+este fichero es parte del tronco principal
